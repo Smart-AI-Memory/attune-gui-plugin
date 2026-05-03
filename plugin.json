@@ -1,0 +1,13 @@
+{
+  "name": "attune-gui",
+  "version": "1.0.0",
+  "description": "Launch the attune-gui dashboard inside the Cowork preview pane with /attune-gui",
+  "author": {
+    "name": "Smart AI Memory",
+    "email": "patrick.roebuck@smartaimemory.com"
+  },
+  "homepage": "https://smartaimemory.com",
+  "repository": "https://github.com/Smart-AI-Memory/attune-gui-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["attune", "dashboard", "gui", "templates", "developer-tools"]
+}
