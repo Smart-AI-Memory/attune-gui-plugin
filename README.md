@@ -11,18 +11,16 @@ living-docs dashboard in the Cowork preview pane with a single skill invocation.
 
 ## Install
 
-Register the marketplace source in `~/.claude/cowork_settings.json`:
+Add the marketplace source to `~/.claude/plugins/known_marketplaces.json`:
 
 ```json
-{
-  "extraKnownMarketplaces": {
-    "attune-plugins": {
-      "source": {
-        "source": "github",
-        "repo": "Smart-AI-Memory/attune-gui-plugin"
-      }
-    }
-  }
+"attune-plugins": {
+  "source": {
+    "source": "github",
+    "repo": "Smart-AI-Memory/attune-gui-plugin"
+  },
+  "installLocation": "~/.claude/plugins/marketplaces/attune-plugins",
+  "lastUpdated": "2026-05-02T00:00:00.000Z"
 }
 ```
 
