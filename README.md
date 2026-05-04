@@ -1,5 +1,24 @@
 # attune-gui Plugin
 
+> ## ⚠️ This repository is archived
+>
+> The attune-gui Claude Code plugin has moved into the
+> [attune-docs marketplace](https://github.com/Smart-AI-Memory/attune-docs)
+> alongside `attune-help` and `attune-author`.
+>
+> **New install:**
+>
+> ```bash
+> claude plugin marketplace add Smart-AI-Memory/attune-docs
+> claude plugin install attune-gui@attune-docs
+> ```
+>
+> No further updates will be published here. See
+> [Smart-AI-Memory/attune-docs](https://github.com/Smart-AI-Memory/attune-docs)
+> for the current source.
+
+---
+
 A Claude Code plugin that launches the
 [attune-gui](https://github.com/Smart-AI-Memory/attune-gui) dashboard in
 the Cowork preview pane with a single command — or hands-free when you
